@@ -1,0 +1,76 @@
+body{ background-color: rgb(1, 21, 37);
+
+}
+
+
+
+
+#resultado{ background-color: rgb(24, 27, 27);
+            width: 200px;
+            height: 80px;
+            border: solid 2px rgb(38, 186, 240);
+            color: azure; 
+            padding: 10px;
+            box-sizing: border-box;
+            padding-top: 24px;
+            font-size: 25px;
+            text-align: center;
+            margin: auto;
+             
+          
+        }
+#calculo{ position: absolute;
+          left: 50%;
+          transform: translateX(-50%);
+          background-color:  rgb(24, 27, 27);
+          width: 500px;
+          box-sizing: border-box;
+          padding: 50px;
+          opacity: 0.8;
+          border: solid 2px rgb(38, 186, 240);
+          margin-top: 40px;
+
+}
+
+button{ margin-bottom: 50px;
+    background-color: rgb(38, 186, 240);
+    color: azure;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-size: 15PX;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+
+#inputValorA{ background-color: rgb(24, 27, 27);
+    color: azure;
+
+ }
+#inputValorB{background-color: rgb(24, 27, 27);
+    color: azure;
+}
+
+.container{ width: 300px;
+            height: 50px;
+           background-color: rgb(38, 186, 240);
+           text-align: center;
+           padding: 14px;
+           box-sizing: border-box;
+           margin-top: 10px;
+           color: azure;
+           border: solid 2px  rgb(24, 27, 27); 
+           margin: auto;
+           
+        }
+
+.estilo1{  background-color: azure;
+         color: rgb(38, 186, 240);
+}
+.estilo2{background-color:  rgb(38, 186, 240);
+    color:azure;
+
+}        
+
